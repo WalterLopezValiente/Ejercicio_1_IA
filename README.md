@@ -11,7 +11,7 @@ de programación en Prolog.
      y un predicado de prueba para verificar su funcionamiento.
 
  git clone https://github.com/WalterLopezValiete/Ejercicio_1_IA.git
- cd ejercicios_prolog
+ cd Ejercicio_1_IA
 
  git checkout -b suma_numeros
  git add suma_numeros.pl
