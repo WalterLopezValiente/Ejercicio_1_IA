@@ -10,7 +10,7 @@ de programación en Prolog.
    - Este ejercicio incluye un predicado que suma dos números
      y un predicado de prueba para verificar su funcionamiento.
 
- git clone https://github.com/WalterLopezValiete/Ejercicio_i1_IA.git
+ git clone https://github.com/WalterLopezValiete/Ejercicio_1_IA.git
  cd ejercicios_prolog
 
  git checkout -b suma_numeros
