@@ -1,8 +1,9 @@
 git clone https://github.com/WalterLopezValiente/Ejercicio_1_IA.git
 cd Ejercicio_1_IA
-git checkout -b suma_numeros
+git checkout -b ejercicio-basico
 git add suma_numeros.pl
 git commit -m "Agregar ejercicios de suma de numeros"
-git push origin suma_numeros
+git push origin ejercicio-basico
 git checkout master
-   
+git merge ejercicio-basico
+git push origin master
